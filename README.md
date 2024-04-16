@@ -1,6 +1,6 @@
 # Engineering-Math
 Some method of solving mathematical problems, such as:  
-  Eigenvalues  
-  inverse matrix  
-  Determinant  
-  simultaneous equations  
+  Eigenvalues->eig.cpp  
+  inverse matrix->inv.cpp  
+  Determinant->deter.cpp  
+  simultaneous equations->eq_solver.cpp  
